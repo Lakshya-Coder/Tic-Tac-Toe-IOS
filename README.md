@@ -1,7 +1,6 @@
 # Tic Tac Toe
 An iOS app for playing the classic Tic Tac Toe game with friends or against your device.
-
-#### pase youtube video here
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Gep2Xzg-YtE/0.jpg)](https://www.youtube.com/watch?v=Gep2Xzg-YtE)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
